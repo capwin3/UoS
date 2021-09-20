@@ -2,7 +2,7 @@
 University of Sunderland
 CETM 46 Stock Prediction Analysis
 Instruction
-1.	Download and install Anaconda from https://www.anaconda.com/products/individual-d or Jupyter from https://jupyter.org/install
+1.	Download and install Anaconda from https://www.anaconda.com/products/individual-d
 2.	Download and install python version 3.9.7 or above from https://www.python.org/downloads/
 3.	Download the Source code and dataset from here https://github.com/capwin3/UoS
 4.	By default, the app will use the dataset stored on Github, if you wish to read the file locally, please make sure you set the 'working directory' to the correct path and include both the source code file and all csv files. Then follow step 7
