@@ -11,5 +11,5 @@ Instruction
 7.	If you wish to load data from local machine, search "https://raw.githubusercontent.com/capwin3/UoS/main/xxx.csv" and replace the entire sting with the csv file name only.
 8.	Once the source code is open, click on Kernel and select 'Restart and Run All'
 9.	Click on the link at the bottom or type https://127.0.0.1:8080 on your browser to access
-10.	If port 8080 is not available, go to Step 6 and search app.run_server(debug=True, use_reloader=False, port = 8080), change to port number and Restart
+10.	If port 8080 is not available, follow to Step 6 and search app.run_server(debug=True, use_reloader=False, port = 8080), change to port number and Restart
   
